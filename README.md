@@ -52,8 +52,10 @@
 
 
 <div align = "center">
-
- [![Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjhcsols&count_bg=%2379C83D&title_bg=%23555555&icon=turkishairlines.svg&icon_color=%23E7E7E7&title=%ED%9E%88%ED%8A%B8&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://gist.github.com/PrinceGoblinTech">
+    <img src="https://profile-counter.glitch.me/{pjhcsols}/count.svg" alt="Visitor Count" />
+  </a>
+</p>
  </div>
 
 
